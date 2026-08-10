@@ -4,7 +4,7 @@ pipeline {
   environment {
     DOCKER_IMAGE  = "ligha/static-website"
     GIT_REPO_NAME = "python-flask-app"
-    GIT_USER_NAME = "Doom710"
+    GIT_USER_NAME = "lighacu"
   }
 
   options {
